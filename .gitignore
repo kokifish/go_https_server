@@ -1,0 +1,4 @@
+report_upload/**
+report_html/**
+server.crt
+server.key
