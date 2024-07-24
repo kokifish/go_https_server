@@ -1,4 +1,9 @@
+.DS_Store
+.vscode/**
 report_upload/**
 report_html/**
 server.crt
 server.key
+manual_poc/**
+recv_zip/**
+recv_unzip/**
